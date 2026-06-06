@@ -4,7 +4,12 @@ max-width:1000px;
 margin:auto;
 padding:5px 20px;
 }
-.hero{background:white;color:#0f2747;text-align:center;padding:20px 20px}
+.hero{
+background:white;
+color:#0f2747;
+text-align:center;
+padding:0px 20px;
+}
 .logo{max-width:350px;margin-bottom:30px}
 .tagline{font-size:1.4rem}
 .btn{display:inline-block;background:#0f2747;color:white;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:bold}
